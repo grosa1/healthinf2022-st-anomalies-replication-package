@@ -1,1 +1,1 @@
-# healthinf2022-screening-st-anomaliesreplication-package
+# healthinf2022-screening-st-anomalies-replication-package
