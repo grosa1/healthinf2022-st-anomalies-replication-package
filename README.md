@@ -13,3 +13,5 @@
     - `rast_ternary_random_forest`: experimental procedure for RAST-TERNARY, using the Random Forest Classifier (Section 5.3)
         - `{4,6,8,10,16,32,64}beats`: contains the jupyter notebooks used for L1SO and 80-20 random-split validation schemes for each Temporal Window for the Heartbeat Observation
         - `result_analysis`: contains the jupyter notebooks used for the analysis of the results for RAST-TERNARY
+
+The CSV files containing the data used for the experiment can be found [here](https://drive.google.com/file/d/13QZ_0jIxpSgn4dqSigpCwmD3rnbiGc-g/view?usp=sharing)
